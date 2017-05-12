@@ -1,0 +1,24 @@
+{
+    "name": "siriusphp/upload",
+    "description": "Uploads excels documentment",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Atwon",
+            "email": "lucasatwon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "siriusphp/validation": "^2.2",
+        "mikica/skrill-quick": "^1.02",
+        "facebook/php-sdk": "^3.2"
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "monolog/monolog": "*",
+        "zvook/php-skrill-quick-checkout": "*"
+    }
+}
